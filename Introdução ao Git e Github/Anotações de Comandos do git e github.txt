@@ -1,0 +1,21 @@
+LS = Listar Arquivos
+CD = ( Change Directory ) Mudar de diretório
+CD.. = Voltar uma pasta
+DIR = (Lista de diretórios ) Verifica Arquivos do Diretório
+MKDIR = ( Make Directory ) Criar pasta
+DEL/RMDIR = Deletar Arquivos
+CLS/Control + L = (Clear Screen) Limpar tela
+TECLA TAB = Auto Completar comandos já usados
+GIT INIT = Iniciar Repositório
+GIT ADD = Mover Arquivos e dar início a versionamentos e comandos
+GIT COMMIT = Commitar o arquivo
+ECHO > "conteudo.md" = Criar Arquivo
+GIT REMOTE REMOVE = Remomve um arquivo
+GIT STATUS = ver o status do repositório
+GIT PUSH ORIGIN MASTER = Comando para levar o código do repositório local para um repositório remoto
+GIT CLONE = Clonar um arquivo
+GIT ADD -A, GIT COMMIT -M "conteúdo" e GIT PUSH ORIGIN MAIN = Enviar repositorio local com alterações para o repositório remoto(github).
+.MD = Sigla do ''Markdown''. que serve como um Editor para Textos, usados como #,##,### + "conteudo", assim mudando um tamanho de um texto. funciona em alguns apps de edição
+como Typora, Ghostwriter, entre outros.
+
+Existem outros comandos, como este é meu primeiro contato com Git/Github então são esses que eu conheço até o momento!
